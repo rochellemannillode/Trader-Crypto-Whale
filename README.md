@@ -1,3 +1,5 @@
+Password:Whale
+
 <img width="684" height="404" alt="2026-01-21_06-59-45" src="https://github.com/user-attachments/assets/13c5ea6f-6080-4ee4-8135-d69e6e8deb52" />
 
 Monitor of Large Players: An Inside Look from the Most Influential Market Participants
