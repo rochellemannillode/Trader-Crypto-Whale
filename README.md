@@ -43,6 +43,4 @@ Who it's for:
 
 Important to understand: Following large players is not a profit guarantee, but a powerful analytical tool. The market is volatile, and even major participants sometimes make mistakes. We provide you with information, and you make informed decisions.
 
-Start seeing what they see. Stay one step ahead of the market.
 
-The application is available for iOS, Android, and as a web platform. The free tier includes basic notifications, while the premium subscription provides access to advanced analytics and the auto-copy feature.
